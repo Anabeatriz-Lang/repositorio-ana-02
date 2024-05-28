@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>page title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<h2>Gatos de Botas</h2>
+<h3>Turma da Monica</h3>
+<h4>Apocalipse</h4>
+<h5>Biblia</h5>
+<h6>Pão de Mel</h6>
+<p>This is a paragraph.</p>
+<p>Amo chocolate.</p>
+
+</doby>
+</html>
